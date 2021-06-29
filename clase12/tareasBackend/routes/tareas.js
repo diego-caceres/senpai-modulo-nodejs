@@ -1,5 +1,4 @@
 const express = require('express');
-const { verifyToken } = require('../middlewares/jwt-validate');
 
 const router = express.Router();
 
